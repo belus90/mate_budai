@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mate_budai/static/css/main.073c9b0a.css",
+    "main.js": "/mate_budai/static/js/main.39740947.js",
+    "static/js/787.50386cbd.chunk.js": "/mate_budai/static/js/787.50386cbd.chunk.js",
+    "static/media/logo.svg": "/mate_budai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mate_budai/index.html",
+    "main.073c9b0a.css.map": "/mate_budai/static/css/main.073c9b0a.css.map",
+    "main.39740947.js.map": "/mate_budai/static/js/main.39740947.js.map",
+    "787.50386cbd.chunk.js.map": "/mate_budai/static/js/787.50386cbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.39740947.js"
+  ]
+}

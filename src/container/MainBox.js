@@ -1,26 +1,20 @@
 import React from "react";
 import Header from "../components/Header";
-import Footer from "../components/Footer";
-import MainCointext from "../components/MainContext";
-
+import MainContext from "../components/MainContext";
+import Footer from "../components/Footer"
 
 const MainBox = () => {
 
-    
 
 
-
-
-
-    return (
-        <>
-        <h1>Hello</h1>
-        </>
-        
-    );
-    
+return (
+<div class = "main-box">
+    <Header />
+    <MainContext />
+    <Footer />
+</div>
+);
 
 };
-
 
 export default MainBox;

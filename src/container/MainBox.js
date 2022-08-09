@@ -1,16 +1,21 @@
 import React from "react";
-import Header from "../components/Header";
-import MainContext from "../components/MainContext";
 import Footer from "../components/Footer"
+import Technical from "../components/Technical";
+import Projects from "../components/Projects";
+import Header from "../components/Header";
+import About from "../components/About";
+import Home from "../components/Home";
 
 const MainBox = () => {
 
-
-
 return (
 <div class = "main-box">
+    
     <Header />
-    <MainContext />
+    <Home />
+    <About />
+    <Projects />
+    <Technical />
     <Footer />
 </div>
 );

@@ -1,15 +1,16 @@
 import React from "react";
+import "../style/Header.css";
 
 
-const Header = () => {
+const header = () => {
 
 return(
 
-    <div class = "navbar-container">
-            <div class = "header">
+    <div className = "navbar-container">
+            <div className = "header">
                 <p> Mate Budai</p>
-             </div>
-            <div class = "nav-links">
+            </div>
+            <div className = "nav-links">
             <p>Home</p>
             <p>About</p>
             <p>Skills</p>
@@ -23,4 +24,4 @@ return(
 
 };
 
-export default Header;
+export default header;

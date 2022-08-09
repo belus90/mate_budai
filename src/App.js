@@ -1,12 +1,6 @@
 import React from 'react';
-import './App.css';
 import MainBox from './container/MainBox';
-import About from './components/About';
-import Contact from './components/Contact';
-import Portfolio from './components/Portfolio';
-import Header from './components/Header';
-import Home from './components/Home';
-
+import Technical from './components/Technical';
 
 function App() {
   return (
@@ -27,12 +21,9 @@ function App() {
     //   </header>
     // </div>
 <>
-    <Header />
-    <Home />
-      <About />
-      <Portfolio />
-      <Contact />
 
+  {/* <MainBox /> */}
+    <Technical /> 
 </>
   );
 }

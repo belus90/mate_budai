@@ -14,8 +14,13 @@
     margin: center;
 }
 
+.projects-card-1 img {
+    width: auto;
+    /* height: 180px; */
+}
+
 .projects-card-1 {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 8%;
     margin-bottom: 40px;
     box-shadow: 13px -12px whitesmoke;

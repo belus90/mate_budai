@@ -3,6 +3,7 @@ import "../style/Home.css";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faLinkedinIn, faGithub}from "@fortawesome/free-brands-svg-icons";
 import {faPaperPlane} from "@fortawesome/free-regular-svg-icons";
+import profile from "../img/MateBudai.jpg";
 
 
 
@@ -12,7 +13,7 @@ const Home = () => {
     return (
         <div className="profile">
             <img className="picture"
-                src="https://images.unsplash.com/photo-1654354280759-131dd81097fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80" />
+                src = {profile} />
             <div className="text-about">
                 <p>Hi, Welcome to my website !!  </p>
                 <div className="profile-links">

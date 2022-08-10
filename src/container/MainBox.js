@@ -13,13 +13,13 @@ const MainBox = () => {
 
             {/* <Header /> */}
             <Home />
-            <br></br>
+            {/* <br></br> */}
             <About />
-            <br></br>
+            {/* <br></br> */}
             <Projects />
-            <br></br>
+            {/* <br></br> */}
             <Technical />
-            <br></br>
+            {/* <br></br> */}
             <Footer />
         </div>
     );

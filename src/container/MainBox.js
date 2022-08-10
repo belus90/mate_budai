@@ -8,17 +8,21 @@ import Home from "../components/Home";
 
 const MainBox = () => {
 
-return (
-<div class = "main-box">
-    
-    <Header />
-    <Home />
-    <About />
-    <Projects />
-    <Technical />
-    <Footer />
-</div>
-);
+    return (
+        <div class="main-box">
+
+            {/* <Header /> */}
+            <Home />
+            <br></br>
+            <About />
+            <br></br>
+            <Projects />
+            <br></br>
+            <Technical />
+            <br></br>
+            <Footer />
+        </div>
+    );
 
 };
 

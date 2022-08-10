@@ -1,12 +1,13 @@
 import React from "react";
+import "../style/Projects.css";
 
 const Portfolio = () => {
 
 
 return (
 
-    <div class = "portfolio">
-    <h2>Portfolio</h2>
+    <div class = "projects">
+    <h2>My Projects</h2>
         <li>
                 <a href="https://github.com/belus90/First_project">First Project</a>
         </li>

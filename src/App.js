@@ -1,6 +1,6 @@
 import React from 'react';
 import MainBox from './container/MainBox';
-import Technical from './components/Technical';
+
 
 function App() {
   return (
@@ -22,8 +22,8 @@ function App() {
     // </div>
 <>
 
-  {/* <MainBox /> */}
-    <Technical /> 
+  <MainBox />
+
 </>
   );
 }

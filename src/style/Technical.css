@@ -4,7 +4,7 @@
     flex-flow: row wrap;
     justify-content: space-around;
     margin: auto;
-    width: 80%;
+    width: 55%;
     margin: center;
 }
 
@@ -17,4 +17,8 @@
 .tech {
     margin: 25px;
     /* position: relative; */
+    text-align: center;
+}
+.tech-skills{
+    text-align: center;
 }

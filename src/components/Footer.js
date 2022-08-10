@@ -1,11 +1,12 @@
 import React from "react";
 import signiture from "../img/Signiature.png";
+import "../style/Footer.css";
 
 const Footer = () => {
 
     return(
         <div class = "footer">
-            <p>@Design By <img src = {signiture}/></p>
+            <p>@Design By Mate Budai</p>
         </div>
     )
 };
